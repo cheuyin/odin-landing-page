@@ -211,3 +211,15 @@ a, a:hover, a:visited, a:active {
     border: 1px solid #f9f9f9;
     border-radius: 5px;
 }
+
+/* FOOTER */
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 40px 0px;
+}
+
+.footer .copyright {
+    color: white;
+}
