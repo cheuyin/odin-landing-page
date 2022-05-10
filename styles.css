@@ -140,3 +140,28 @@ a, a:hover, a:visited, a:active {
     font-size: 18px;
     color: #1F2937;
 }
+
+/* SECTION 3 */
+.section-3 {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+
+.section-3 .container {
+    width: 50%;
+    margin: 50px 0px;
+}
+
+.section-3 .quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.section-3 .source {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1F2937;
+    margin: 20px;
+    text-align: right;
+}   
